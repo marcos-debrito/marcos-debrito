@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 😄 Atualmente trabalho como monitor na Kenzie Academy Brasil (M1)
-- 📘 Estou me aprofundando no Front-end, mais especificamente em bibliotecas (tailWind, React)
+- 📘 Estou me aprofundando no Front-end, mais especificamente em React (next.js)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
