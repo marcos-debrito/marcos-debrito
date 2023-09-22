@@ -29,6 +29,8 @@
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; 
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;
+![DJANGO](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
   
   
   
