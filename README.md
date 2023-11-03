@@ -2,7 +2,6 @@
 
 - 😄 Atualmente trabalho como monitor na Kenzie Academy Brasil (M3)
 - 📘 Estou iniciando meus estudos em back end, mais especificamente em Python com Django :)
-- Meu portfólio ( ainda em construção ) > https://portfolio-delta-six-49.vercel.app/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
