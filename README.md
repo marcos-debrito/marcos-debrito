@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-- 😄 Atualmente estou finalizando o curso de FULL STACK pela kenzie academy e também curso Ciências da computação 
-- 📘 Estou aprofundando meus estudos em back end, mais especificamente em nest.js :)
-
+- 😄 Possuo certificação de desenvolvedor Full Stack pela Kenzie Academy (jan 2023 - jan 2024) e iniciei o curso de análise e desenvolvimento de sistemas pela FECAP
+- 📘 Estou aprofundando meus estudos em Clojure, uma linguagem de programação funcional
+- 🖥️ Sou Analista de desenvolvimento Jr. pela CSD BR
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
 
